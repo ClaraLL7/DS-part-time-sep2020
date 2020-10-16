@@ -1,0 +1,4 @@
+# No subiremos los checkpoints, que son ficheros que no son del proyecto, propiamente hablando
+.ipynb_checkpoints/
+*.ipynb_checkpoints/
+*-checkpoint.*
